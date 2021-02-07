@@ -42,54 +42,12 @@ node --version
 npm --version
 ```
 
-If you have trouble with any of these, learn more about the PATH environment
-variable and how to fix it here for [windows][win-path] or
-[mac/linux][mac-path].
-
 ## Setup
-
-> If you want to commit and push your work as you go, you'll want to
-> [fork](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo)
-> first and then clone your fork rather than this repo directly.
-
-After you've made sure to have the correct things (and versions) installed, you
-should be able to just run a few commands to get set up:
-
-```
-git clone https://github.com/kentcdodds/advanced-react-patterns.git
-cd advanced-react-patterns
-node setup
-```
-
-This may take a few minutes. **It will ask you for your email.** This is
-optional and just automatically adds your email to the links in the project to
-make filling out some forms easier.
-
-If you get any errors, please read through them and see if you can find out what
-the problem is. If you can't work it out on your own then please [file an
-issue][issue] and provide _all_ the output from the commands you ran (even if
-it's a lot).
-
-If you can't get the setup script to work, then just make sure you have the
-right versions of the requirements listed above, and run the following commands:
 
 ```
 npm install
 npm run validate
 ```
-
-If you are still unable to fix issues and you know how to use Docker 🐳 you can
-setup the project with the following command:
-
-```
-docker-compose up
-```
-
-It's recommended you run everything locally in the same environment you work in
-every day, but if you're having issues getting things set up, you can also set
-this up using [GitHub Codespaces](https://github.com/features/codespaces)
-([video demo](https://www.youtube.com/watch?v=gCoVJm3hGk4)) or
-[Codesandbox](https://codesandbox.io/s/github/kentcdodds/advanced-react-patterns).
 
 ## Running the app
 
