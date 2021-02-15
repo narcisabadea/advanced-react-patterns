@@ -110,7 +110,9 @@ function UserSettings() {
   function handleSubmit(event) {
     event.preventDefault()
     // 🐨 move the following logic to the `updateUser` function you create above
-    updateUser(userDispatch, user, formState)
+    updateUser(userDispatch, user, formState).catch(() => {
+      /* ignore the error */
+    })
   }
 
   return (
