@@ -10,7 +10,7 @@ const ToggleContext = React.createContext()
 
 // 📜 https://reactjs.org/docs/context.html#reactcreatecontext
 
-function Toggle({onToggle, children}) {
+function Toggle({children}) {
   const [on, setOn] = React.useState(false)
   const toggle = () => setOn(!on)
 
