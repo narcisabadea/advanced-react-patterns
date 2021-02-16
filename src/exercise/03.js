@@ -31,7 +31,11 @@ function Toggle({children}) {
 // your context won't be exposed to the user
 
 const useToggle = () => {
-  return React.useContext(ToggleContext)
+  const context =  React.useContext(ToggleContext)
+ if (context === undefined) {
+   throw new Error('useToggle must we used within a toggle provider')
+ }
+  return context
 }
 // 💰 `const context = React.useContext(ToggleContext)`
 // 📜 https://reactjs.org/docs/hooks-reference.html#usecontext
