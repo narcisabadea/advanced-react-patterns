@@ -1,9 +1,5 @@
 <div>
-  <h3 align="center"><a href="https://epicreact.dev/patterns">Advanced React Patterns Workshop 🚀</a></h3>
-  <strong>
-    Learn how to build simple and flexible React Components and Hooks using
-    modern patterns
-  </strong>
+  <h3 align="center"><a href="https://epicreact.dev/patterns">Kent C. Dodds's Advanced React Patterns Workshop 🚀</a></h3>
 <br/><br/>
   <a href="https://epicreact.dev">
     <img
