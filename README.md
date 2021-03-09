@@ -1,6 +1,6 @@
 <div>
   <a href="https://epicreact.dev/patterns">Kent C. Dodds's Advanced React Patterns Workshop 🚀</a>
-  <br/>
+  <br/><br/>
   <a href="https://epicreact.dev">
     <img
       alt="Learn React from Start to Finish"
