@@ -1,14 +1,9 @@
 <div>
-  <h3 align="center"><a href="https://epicreact.dev/patterns">🤯 Advanced React Patterns 🚀 EpicReact.Dev Workshop</a></h3>
+  <h3 align="center"><a href="https://epicreact.dev/patterns">Advanced React Patterns Workshop 🚀</a></h3>
   <strong>
     Learn how to build simple and flexible React Components and Hooks using
     modern patterns
   </strong>
-  <p>
-    Not only learn great patterns you can use but also the strengths and
-    weaknesses of each, so you know which to reach for to provide your custom
-    hooks and components the flexibility and power you need.
-  </p>
 
   <a href="https://epicreact.dev">
     <img
@@ -18,29 +13,6 @@
   </a>
 </div>
 
-## Prerequisites
-
-- Read my blog post
-  [Inversion of Control](https://kentcdodds.com/blog/inversion-of-control). Or
-  watch
-  [Implement Inversion of Control](https://egghead.io/lessons/egghead-implement-inversion-of-control?pl=kent-s-blog-posts-as-screencasts-eefa540c&af=5236ad)
-- The more experience you have with building React abstractions, the more
-  helpful this workshop will be for you.
-
-## System Requirements
-
-- [git][git] v2.13 or greater
-- [NodeJS][node] `^10.13 || 12 || 14 || 15`
-- [npm][npm] v6 or greater
-
-All of these must be available in your `PATH`. To verify things are set up
-properly, you can run this:
-
-```shell
-git --version
-node --version
-npm --version
-```
 
 ## Setup
 
@@ -83,14 +55,7 @@ a complete authority.
 - `src/final/00.js`: Final version
 - `src/final/00.extra-0.js`: Final version of extra credit
 
-The purpose of the exercise is **not** for you to work through all the material.
-It's intended to get your brain thinking about the right questions to ask me as
-_I_ walk through the material.
-
 ### Helpful Emoji 🐨 💪 🏁 💰 💯 🦉 📜 💣 👨‍💼 🚨
-
-Each exercise has comments in it to help you get through the exercise. These fun
-emoji characters are here to help you.
 
 - **Kody the Koala** 🐨 will tell you when there's something specific you should
   do
