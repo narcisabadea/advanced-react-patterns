@@ -1,10 +1,11 @@
 <div>
-  <h3 align="center"><a href="https://epicreact.dev/patterns">Kent C. Dodds's Advanced React Patterns Workshop 🚀</a></h3>
-<br/><br/>
+  <a href="https://epicreact.dev/patterns">Kent C. Dodds's Advanced React Patterns Workshop 🚀</a>
+  <br/>
   <a href="https://epicreact.dev">
     <img
       alt="Learn React from Start to Finish"
       src="https://kentcdodds.com/images/epicreact-promo/er-1.gif"
+      height='300px'
     />
   </a>
 </div>
