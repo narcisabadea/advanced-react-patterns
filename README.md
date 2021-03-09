@@ -4,7 +4,7 @@
     Learn how to build simple and flexible React Components and Hooks using
     modern patterns
   </strong>
-<br/>
+<br/><br/>
   <a href="https://epicreact.dev">
     <img
       alt="Learn React from Start to Finish"
